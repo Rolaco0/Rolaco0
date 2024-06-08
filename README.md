@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rolaco</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rolaco0&label=Profile%20views&color=0e75b6&style=flat" alt="rolaco0" /> </p>
 
-- 💻 I’m currently learning **cybersecurity**
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Python and C#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
