@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rolaco!;" />
 </h1>
 
-<h3 align="center">A passionate Cyber Security enthusiast </h3>
+<h3 align="center">A passionate Cyber Security enthusiast</h3>
 
 <br/>
 
@@ -14,11 +14,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **Sharpening my Cyber Security skills**
-- 🌱 I’m currently learning **Python & C# for security tools development**
-- 👯 I’m looking to collaborate on **Open Source Security Projects**
-- 👀 I’m interested in **Cyber Security, Penetration Testing & Ethical Hacking**
-- 💬 Ask me about **C, C++, Python, Linux... or anything tech-related**
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Python and C#
+- 💬 Ask me about **C, C++, Linux... or anything tech-related**
 - ⚡ Fun fact **I think I'm funny, and I love solving complex problems**
 
 <br/>
