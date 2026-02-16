@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rolaco!;" />
 </h1>
 
-<h3 align="center">A passionate Cyber Security enthusiast from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Morocco</b></h3>
+<h3 align="center">A passionate Cyber Security enthusiast <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> </h3>
 
 <br/>
 
@@ -43,14 +43,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/g0ec" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://discord.gg/cYmVd6eEm4" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -65,5 +59,5 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Message+me+on+Discord!;Always+learning+new+things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Join+me+on+Discord!;Always+learning+new+things+🚀" />
 </h3>
