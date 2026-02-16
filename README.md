@@ -27,25 +27,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rolaco0&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="rolaco0" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rolaco0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rolaco github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolaco0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolaco0&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="rolaco0" />
-</p>
-
 ## 🛠️ Languages and Tools
 
 <div align="center">
@@ -73,23 +54,10 @@
   </a>
 </p>
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rolaco0&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" />
-</p>
-
-## 🐍 Watch Snake eating my contributions
-
-<p align="center">
-  <img src="https://github.com/rolaco0/rolaco0/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rolaco0&label=Profile%20Views&color=00bfbf&style=flat" alt="rolaco0" />
-  <img src="https://img.shields.io/github/followers/rolaco0?label=Followers&style=social" alt="followers" />
 </p>
 
 <div align="center">
