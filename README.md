@@ -16,8 +16,6 @@
 
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python and C#
-- 💬 Ask me about **C, C++, Linux... or anything tech-related**
-- ⚡ Fun fact **I think I'm funny, and I love solving complex problems**
 
 <br/>
 
