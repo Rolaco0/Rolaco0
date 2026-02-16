@@ -1,104 +1,167 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rolaco&fontSize=70&fontAlignY=35&desc=Cyber%20Security%20Specialist&descAlignY=55&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1A1F2E,100:0D1117&height=250&section=header&text=ROLACO&fontSize=80&fontColor=FFFFFF&animation=fadeIn&desc=Cyber%20Security%20Architect&descSize=25&descAlignY=60" width="100%" />
 </div>
 
-<!-- Social Badges -->
+<!-- Professional Badges -->
 <p align="center">
-  <a href="https://instagram.com/g0ec">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2C2F33"/>
-  </a>
   <a href="https://discord.gg/cYmVd6eEm4">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1F2E"/>
   </a>
   <a href="https://github.com/rolaco0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2F33"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1F2E"/>
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Elegant Profile Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rolaco0&label=PROFILE%20VISITORS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://visit-counter.vercel.app/counter.png?page=rolaco0&s=50&c=00E5FF&bg=1A1F2E&no=2&ff=digi" alt="visits" width="200"/>
 </p>
 
-<!-- Typing Animation -->
+<br>
+
+<!-- Animated Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+Digital+Fortress;Securing+the+Future;Python+%7C+C%23+%7C+Cyber+Security" alt="Typing Animation"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
 </p>
 
----
+<br>
 
-<!-- About Me Section with Elegant Design -->
-<table align="center" width="100%">
+<!-- Main Content in Elegant Cards -->
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">🌟 About Me</h2>
+    <td width="33%" valign="top">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-        <br><br>
-        <p>
-          <b>🔐 Cyber Security Enthusiast</b><br>
-          <b>💻 Python & C# Developer</b><br>
-          <b>🌐 Open Source Contributor</b><br>
-          <b>⚡ CTF Player</b>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="80" />
+        <h3>🛡️ Cyber Security</h3>
+        <p><i>Digital fortress builder</i></p>
+        <hr width="50%">
+        <p align="left">
+          • Penetration Testing<br>
+          • Network Security<br>
+          • Ethical Hacking<br>
+          • Security Analysis
         </p>
-        <br>
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
       </div>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h2 align="center">⚙️ Tech Arsenal</h2>
-      <br>
-      <img src="https://skillicons.dev/icons?i=py,cs,c,cpp,linux,bash,git,github&theme=dark&perline=4" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolaco0&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="80%"/>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" />
+        <h3>💻 Development</h3>
+        <p><i>Code architect</i></p>
+        <hr width="50%">
+        <p align="left">
+          • Python Expert<br>
+          • C# Developer<br>
+          • C/C++ Programmer<br>
+          • Linux Systems
+        </p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="80" />
+        <h3>⚡ Current Focus</h3>
+        <p><i>Always learning</i></p>
+        <hr width="50%">
+        <p align="left">
+          • Advanced Python<br>
+          • Security Tools<br>
+          • Cryptography<br>
+          • Reverse Engineering
+        </p>
+      </div>
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- GitHub Stats with Modern Design -->
-<h2 align="center">📊 GitHub Statistics</h2>
-<br>
+<!-- Skills Section with Luxury Design -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="30" /> 
+  TECHNICAL MASTERY 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="30" />
+</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rolaco0&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" alt="Trophy"/>
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1F2E" />
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=1A1F2E" />
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1A1F2E" />
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1A1F2E" />
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1A1F2E" />
+  <!-- Kali -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=1A1F2E" />
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1F2E" />
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1F2E" />
 </p>
 
 <br>
 
+<!-- Premium GitHub Stats -->
+<h2 align="center">📈 PERFORMANCE METRICS</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rolaco0&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolaco0&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888&border_radius=10" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rolaco0&theme=2077" width="90%" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rolaco0&theme=2077" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rolaco0&theme=2077" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rolaco0&theme=2077" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rolaco0&theme=2077&utcOffset=3" width="40%" />
 </p>
 
 <br>
 
-<!-- Activity Graph -->
+<!-- 3D Contribution Graph -->
+<h2 align="center">🌊 CONTRIBUTION FLOW</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rolaco0&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=true&radius=10" width="95%" alt="Activity Graph"/>
+  <img src="https://github.com/rolaco0/rolaco0/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contributions"/>
 </p>
 
 <br>
 
-<!-- Current Learning -->
-<h2 align="center">📚 Current Mission</h2>
+<!-- Contact Section Premium -->
+<h2 align="center">💎 CONNECT WITH ME</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2C2F33"/>
-  <img src="https://img.shields.io/badge/Learning-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=2C2F33"/>
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=2C2F33"/>
+  <a href="https://discord.gg/cYmVd6eEm4">
+    <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1F2E&logoWidth=20&link=https://discord.gg/cYmVd6eEm4" />
+  </a>
+  <a href="mailto:rolaco@example.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1F2E" />
+  </a>
 </p>
 
 <br>
 
-<!-- Footer with Wave Animation -->
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontSize=20&text=Secure%20%7C%20Code%20%7C%20Protect&fontAlignY=70" width="100%" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
 </div>
 
+<!-- Matrix Animation Background (Optional) -->
 <p align="center">
-  <b>✨ "In a world full of vulnerabilities, be the firewall" ✨</b>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277959c8b1e1986852b194ad9b08325a94cfa/bottom_header.svg" />
+  <b>⚡ Securing lines of code, one commit at a time ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Root+Access+Granted;System+Secured;Ready+for+Next+Mission" alt="Matrix Text"/>
 </p>
